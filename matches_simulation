@@ -1,4 +1,4 @@
-import random
+```import random
 import time
 
 def matches(): 
@@ -41,4 +41,5 @@ def matches():
     
             
             
-matches()
+matches()```
+
